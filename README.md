@@ -8,3 +8,5 @@ hello canada
 
 octopus started
 
+jenkins version 1.1.7
+
